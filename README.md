@@ -8,7 +8,8 @@ To achieve this:
 1.  The HTML was reviewed and deemed to be well structured and with an appropriate header hierarchy;
 2.  The broken link in the navigation bar was corrected to go to the appropriate sub-section of the page;
 3.  Images were given alt tags matching their sections;
-4.  The CSS was substantially refactored to reduce the number of classes doing the same thing, and reorganised to make the long term maintenance simpler.
+4.  Image reference removed from CSS and alt tag added;
+5.  The CSS was substantially refactored to reduce the number of classes doing the same thing, and reorganised to make the long term maintenance simpler.
 
 
 ## User Story
